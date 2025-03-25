@@ -1,1 +1,2 @@
-https://text3d-eight.vercel.app/
+build with threejs with textGeometry 
+and metcap
